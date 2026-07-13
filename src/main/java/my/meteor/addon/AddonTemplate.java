@@ -1,3 +1,4 @@
+// Файл сделан ии. потом LightLight01 мне его поможет до делать чтобы без ии.
 package my.meteor.addon;
 
 import com.mojang.logging.LogUtils;
