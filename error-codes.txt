@@ -1,0 +1,4 @@
+##########RUSSIAN#########
+код ошибки 1: не удалось изменить Java версию на 21. Возможно у вас не установлена Java 21 или она занята.
+##########ENGLISH#########
+error code 1: Not to set. Java 21 is not installed or runs.
