@@ -3,7 +3,9 @@
 # чтобы скомпилировать код вам потребуется Java 21
 # и тут если у вас есть эта джава она
 # будет учитываться.
+# цвет текста добавил LightLight01 а все остальное это от TimoNiki
 @echo off
+color 05
 Echo ###########################
 echo Fast-Compile by TimoNiki
 echo Copyright (c) 2026 TimoNiki
